@@ -1,6 +1,16 @@
 import javax.sound.sampled.SourceDataLine;
 
 package mainescuela;
-public class escuela {
-    System.out.println("escuela");
+public class Escuela {
+    public int id;
+    public String nombre;
+
+    public Escuela(int id, String nombre){
+        id=this.id;
+        nombre=this.nombre;
+    }
+
+    public String getEscuela{
+        return nombre;
+    }
 }
