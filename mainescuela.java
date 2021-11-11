@@ -1,6 +1,6 @@
 package mainescuela;
 
-public class Mainescuela {
+public class mainescuela {
 
     public static void main(String[] args) {
         Escuela escuela1=new Escuela(1,"ESCOM");
