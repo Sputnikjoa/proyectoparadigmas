@@ -1,4 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
 
 package mainescuela;
 public class Escuela {
